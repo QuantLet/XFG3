@@ -1,0 +1,20 @@
+Name of QuantLet : XFGbetatsacf
+
+Published in : XFG3
+
+Description : 'Plots ime evolvement and sample autocorrelation function for 
+IBM.'
+
+Keywords : 'acf, plot, graphical representation, volatility, autocorrelation'
+
+See also : 
+
+Author : Nicolas Hautsch
+
+Submitted :
+
+Datafile : ibmBeta.dat
+
+Example :
+- 'Time evolvement and sample autocorrelation function of realized volatility 
+for IBM.'
