@@ -7,7 +7,7 @@
 ```yaml
 Name of QuantLet : XFGbetatsacf
 
-Published in : XFG3
+Published in : XFG_3rd Edition
 
 Description : 'Plots time evolvement and sample autocorrelation function for 
 IBM. The upper panel presents the time-evolvement of the monthly realized beta 
