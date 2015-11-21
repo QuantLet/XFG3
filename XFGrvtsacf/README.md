@@ -27,7 +27,7 @@ Submitted :
 Datafile : ibm.dat
 
 Example :
-- 'time evolvement and sample autocorrelation function of the realized 
+- 'Time evolvement and sample autocorrelation function of the realized 
 volatility for IBM.'
 
 
