@@ -33,10 +33,9 @@ volatility for IBM.'
 
 ```
 
-![Picture1](XFGbetatsacf.png)
+![Picture1](XFGrvtsacf.png)
 
 ```R
-
 # clear history
 rm(list = ls(all = TRUE))
 graphics.off()
@@ -61,5 +60,4 @@ ylab = "ACF", lwd = 1, col = "red", lty = 2, ylim = c(0, 1))
 par(new   = T)
 plot(acfData$lag, acfData$acf, type = "h", xlab = "lag", ylab = "ACF", lwd = 2, col = "blue", 
 ylim = c(0, 1)) 
-
 ```
