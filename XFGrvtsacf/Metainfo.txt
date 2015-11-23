@@ -9,7 +9,7 @@ period 2001-2006. The lower panel presents the implied sample
 autocorrelation functions (ACFs).'
 
 Keywords : 'acf, plot, graphical representation, frequency, 
-time-series, autocorrelation'
+time-series, volatility, autocorrelation'
 
 See also : 
 
