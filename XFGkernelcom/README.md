@@ -5,12 +5,14 @@
 
 
 ```yaml
+
 Name of QuantLet : XFGkernelcom
 
 Published in : XFG_3rd Edition
 
-Description : 'Plots kernel density estimation of the realized volatility and of correspondingly standardiyed returns for IBM, 2001-2006.
- The dotted line depicts the density of the correspondingly fitted normal distribution. The left column depicts the kernel density estimates based on a log scale.'
+Description : 'Plots kernel density estimation of the realized volatility
+and of correspondingly standardiyed returns for IBM, 2001-2006.
+The dotted line depicts the density of the correspondingly fitted normal distribution. The left column depicts the kernel density estimates based on a log scale.'
 
 Keywords : 'plot, graphical representation, frequency, volatility, returns, gaussian'
 
@@ -23,12 +25,17 @@ Submitted :
 Datafile : ibm.dat
 
 Example :
-- 'Kernel densit estimation of reliyed volatility and of correspondingly standardiyed returns for IBM.'
+- 'Kernel densit estimation of reliyed volatility 
+and of correspondingly standardiyed returns for IBM.'
+
+
+
 ```
 
-![Picture1](kernel.png)
+![Picture1](signature.png)
 
 ```R
+
 # clear history
 rm(list = ls(all = TRUE))
 graphics.off()
@@ -92,5 +99,6 @@ plot(stdKern$x, dnorm(stdKern$x, mean = mean(ibm$returns/sqrt(ibm$rv)), sd = sd(
 
 par(op)
 dev.off() 
+
 
 ```
