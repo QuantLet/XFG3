@@ -32,7 +32,7 @@ and of correspondingly standardiyed returns for IBM.'
 
 ```
 
-![Picture1](signature.png)
+![Picture1](kernel.png)
 
 ```R
 
