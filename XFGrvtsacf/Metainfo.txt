@@ -1,6 +1,7 @@
+
 Name of QuantLet : XFGrvtsacf
 
-Published in : XFG_3rd Edition
+Published in : XFG (3rd Edition)
 
 Description : 'Plots time evolvement and sample autocorrelation 
 function of the realized volatility for IBM. The upper panel shows 
@@ -19,6 +20,4 @@ Submitted :
 
 Datafile : ibm.dat
 
-Example :
-- 'Time evolvement and sample autocorrelation function of the realized 
-volatility for IBM.'
+Example : Time evolvement and sample autocorrelation function of the realized volatility for IBM.

@@ -1,6 +1,7 @@
+
 Name of QuantLet : XFGsignature
 
-Published in : XFG_3rd Edition
+Published in : XFG (3rd Edition)
 
 Description : 'Plots realized volatility signature for IBM, 2001-2006. Average time between trades: 6.78 seconds.'
 
@@ -14,5 +15,4 @@ Submitted :
 
 Datafile : ibmsignature.dat
 
-Example :
-- 'Volatility signature plot for IBM.'
+Example : Volatility signature plot for IBM.
