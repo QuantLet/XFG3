@@ -4,21 +4,18 @@
 ## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **XFGrvtsacf** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
 
 ```yaml
-
 Name of QuantLet : XFGrvtsacf
 
 Published in : XFG (3rd Edition)
 
-Description : 'Plots time evolvement and sample autocorrelation 
-function of the realized volatility for IBM. The upper panel shows 
-the evolvement of daily realized volatility over the analyzed sample 
-period 2001-2006. The lower panel presents the implied sample 
-autocorrelation functions (ACFs).'
+Description : 'Plots time evolvement and sample autocorrelation function of the realized volatility
+for IBM. The upper panel shows the evolvement of daily realized volatility over the analyzed sample
+period 2001-2006. The lower panel presents the implied sample autocorrelation functions (ACFs).'
 
-Keywords : 'acf, plot, graphical representation, frequency, 
-time-series, volatility, autocorrelation'
+Keywords : 'acf, plot, graphical representation, frequency, time-series, volatility,
+autocorrelation'
 
-See also : 
+See also :
 
 Author : Nicolas Hautsch, Uta Pigorsch
 
@@ -27,7 +24,6 @@ Submitted :
 Datafile : ibm.dat
 
 Example : Time evolvement and sample autocorrelation function of the realized volatility for IBM.
-
 ```
 
 ![Picture1](XFGrvtsacf.png)

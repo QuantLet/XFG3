@@ -4,19 +4,18 @@
 ## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **XFGkernelcom** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
 
 ```yaml
-
 Name of QuantLet : XFGkernelcom
 
 Published in : XFG (3rd Edition)
 
-Description : 'Plots kernel density estimation of the realized volatility
-and of correspondingly standardiyed returns for IBM, 2001-2006.
-The dotted line depicts the density of the correspondingly fitted normal distribution.
-The left column depicts the kernel density estimates based on a log scale.'
+Description : 'Plots kernel density estimation of the realized volatility and of correspondingly
+standardiyed returns for IBM, 2001-2006. The dotted line depicts the density of the correspondingly
+fitted normal distribution. The left column depicts the kernel density estimates based on a log
+scale.'
 
 Keywords : 'plot, graphical representation, frequency, volatility, returns, gaussian'
 
-See also : 
+See also :
 
 Author : Nicolas Hautsch, Uta Pigorsch
 
@@ -24,8 +23,8 @@ Submitted :
 
 Datafile : ibm.dat
 
-Example : Kernel densit estimation of reliyed volatility and of correspondingly standardiyed returns for IBM.
-
+Example : 'Kernel densit estimation of reliyed volatility and of correspondingly standardiyed
+returns for IBM.'
 ```
 
 ![Picture1](kernel.png)

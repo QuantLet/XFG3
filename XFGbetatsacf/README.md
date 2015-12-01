@@ -8,16 +8,15 @@ Name of QuantLet : XFGbetatsacf
 
 Published in : XFG (3rd Edition)
 
-Description : 'Plots time evolvement and sample autocorrelation function for 
-IBM. The upper panel presents the time-evolvement of the monthly realized beta 
-over the period raging from 2001 to 2006 with 95%-confidence interval. The 
-sample autocorrelation function of realized betas in the lower panel indicates 
-the significant serial correlation.'
+Description : 'Plots time evolvement and sample autocorrelation function for IBM. The upper panel
+presents the time-evolvement of the monthly realized beta over the period raging from 2001 to 2006
+with 95%-confidence interval. The sample autocorrelation function of realized betas in the lower
+panel indicates the significant serial correlation.'
 
-Keywords : 'acf, plot, graphical representation, frequency, time-series,
-confidence-interval, autocorrelation'
+Keywords : 'acf, plot, graphical representation, frequency, time-series, confidence-interval,
+autocorrelation'
 
-See also : 
+See also :
 
 Author : Nicolas Hautsch, Uta Pigorsch
 
@@ -26,7 +25,6 @@ Submitted :
 Datafile : ibmBeta.dat
 
 Example : Time evolvement and sample autocorrelation function of realized volatility for IBM.
-
 ```
 
 ![Picture1](XFGbetatsacf.png)
