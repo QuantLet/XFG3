@@ -1,4 +1,4 @@
-# please download the following package
+# please download the following package  
 libraries               = c("lubridate", "poweRlaw","igraph","tables","texreg")
 lapply(libraries, library, quietly = TRUE, character.only = TRUE)
 # Draw Figure 2
