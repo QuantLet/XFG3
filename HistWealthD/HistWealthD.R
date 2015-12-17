@@ -1,32 +1,9 @@
-# ------------------------------------------------------------------------------
-# Book: Applied Quantitative Finance
-# ------------------------------------------------------------------------------
-# Quantlet: HistWealthD
-# ------------------------------------------------------------------------------
-# Description: Generates 3 histgrams of wealth distribution for Bitcion and 
-# Auroracoin.   
-# ------------------------------------------------------------------------------
-# Usage: -
-# ------------------------------------------------------------------------------
-# Inputs: None
-# ------------------------------------------------------------------------------
-# Output: 3 histgrams of wealth distribution for Bitcoin and Auroracoin
-# ------------------------------------------------------------------------------
-# Keywords: power law, bitcoin, crypto, currency, index, wealth distribution
-# ------------------------------------------------------------------------------
-# Author: Guo Li, 2015/06/03
-# ------------------------------------------------------------------------------
-# ----------------------------------------------------------------------------
-# Datafile: i.csv, i = 1, 2, ..., 60; Bitcoin_Data1.csv; Aj.csv, j=2, 3, ..., 10
-# Auroracoin.csv
-# ------------------------------------------------------------------------------
 # please download the following package
 libraries               = c("lubridate", "poweRlaw","igraph","tables","texreg")
 lapply(libraries, library, quietly = TRUE, character.only = TRUE)
 # Draw Figure 2
-setwd("C:/Users/liguo.2014/Dropbox/Data/Table 1")
-Data.PL                 = read.csv(paste(64, ".csv", sep = ""), header = T)[, 1]
 #setwd("~/Desktop/Data/Table 1")
+Data.PL                 = read.csv(paste(64, ".csv", sep = ""), header = T)[, 1]
 m                       = hist(Data.PL, 
                                breaks = c(0, 0.001, 0.005, 0.01, 0.05, 0.1, 0.5, 1, 
                                           5, 10, 50, 100, 500, 1000, 5000, 10000, 
