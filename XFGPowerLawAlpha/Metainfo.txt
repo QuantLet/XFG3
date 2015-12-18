@@ -1,4 +1,4 @@
-Name of QuantLet : PowerLawAlpha
+Name of QuantLet : XFGPowerLawAlpha
 
 Published in : Applied Quantitative Finance
 

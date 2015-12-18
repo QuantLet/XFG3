@@ -4,7 +4,7 @@ lapply(libraries, library, quietly = TRUE, character.only = TRUE)
 
 
 # Part 3: Table 3
-setwd("~/Desktop/Data/Table 1")
+setwd("~/Desktop/Data")
 # pre-allocating for caculation of Power Law parameters
 alpha               = rep(NA, 60)
 Xmin                = rep(NA, 60)

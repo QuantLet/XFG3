@@ -1,4 +1,4 @@
-Name of QuantLet : PowerLawEst2
+Name of QuantLet : XFGPowerLawEst2
 
 Published in : Applied Quantitative Finance
 

@@ -1,4 +1,4 @@
-Name of QuantLet : PowerLawP
+Name of QuantLet : XFGPowerLawP
 
 Published in : Applied Quantitative Finance
 

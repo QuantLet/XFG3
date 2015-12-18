@@ -1,4 +1,4 @@
-Name of QuantLet : TabletoLatex
+Name of QuantLet : XFGTabletoLatex
 
 Published in : Applied Quantitative Finance
 

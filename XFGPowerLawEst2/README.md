@@ -1,10 +1,38 @@
-# please download the following package
+[<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/banner.png" alt="Visit QuantNet">](http://quantlet.de/index.php?p=info)
+
+## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **XFGPowerLawEst2** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
+
+
+```yaml
+<Name of QuantLet : XFGPowerLawEst2
+
+Published in : Applied Quantitative Finance
+
+Description : 'Estimates the Power Law parameter Alpha as well as the goodness
+of fit of right tail of wealth distribution of Auroracoin.'
+
+Keywords : 'power law, bitcoin, crypto, currency, index'
+
+See also : 
+
+Author : Guo Li
+
+Submitted :
+
+Datafile : Aj.csv, j=2, 3, ..., 10; Auroracoin.csv
+
+Example : >
+```
+
+
+```R
+<# please download the following package
 libraries = c("lubridate", "poweRlaw","igraph","tables","texreg")
 lapply(libraries, library, quietly = TRUE, character.only = TRUE)
 
 # Part 2: for figure 3,6,8 $ Table 2
 
-setwd("~/Desktop/Data/Table 2")
+setwd("~/Desktop/Data")
 # pre-allocating for caculation of Power Law parameters
 alpha.2           = rep(NA, 9)
 Xmin.2            = rep(NA, 9)
@@ -29,3 +57,6 @@ for (i in 1:length(Xmin.2)) {
 }
 
 
+
+>
+```

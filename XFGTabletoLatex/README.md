@@ -1,4 +1,32 @@
-source(PowerLawEst1)
+[<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/banner.png" alt="Visit QuantNet">](http://quantlet.de/index.php?p=info)
+
+## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **XFGTabletoLatex** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
+
+
+```yaml
+<Name of QuantLet : XFGTabletoLatex
+
+Published in : Applied Quantitative Finance
+
+Description : 'Generates the Latex code for tables of regression results in 'Risk 
+Analysis of Cryptos as Alternative Asset Class'.'
+
+Keywords : 'power law, bitcoin, crypto, currency, index, wealth distribution'
+
+See also : 
+
+Author : Guo Li
+
+Submitted :
+
+Datafile : i.csv, i = 1, 2, ..., 60; Bitcoin_Data1.csv; Aj.csv, j=2, 3, ..., 10 Auroracoin.csv
+
+Example : >
+```
+
+
+```R
+<source(XFGPowerLawEst1)
 # sample period
 startDate                                  = ymd(20081231)
 Date                                       = startDate %m+% months(c(1:(length(alpha))))
@@ -107,7 +135,7 @@ texreg(list(Days.destroyed.alpha.fit,
                                                        No.Transaction.alpha.table$coef[, 4], 
                                                        Ratio.alpha.table$coef[, 4]))
 
-source(PowerLawEst2)
+source(XFGPowerLawEst2)
 # sample period
 startDate                                  = ymd(20140228)
 Date                                       = startDate %m+% months(c(1:(length(alpha.2))))
@@ -173,7 +201,7 @@ texreg(list(days.destroyed.alpha.fita,
                                                        No.of.Transactions.alpha.tablea$coef[, 4], 
                                                        Transaction.fees.alpha.tablea$coef[, 4]))
 
-source(PowerLawEst3)
+source(XFGPowerLawEst3)
 # sample period
 startDate                                  = ymd(20081231)
 Date                                       = startDate %m+% months(c(1:(length(alpha))))
@@ -504,3 +532,6 @@ texreg(list(Days.destroyed.P.value.fit,
 
 
 
+
+>
+```

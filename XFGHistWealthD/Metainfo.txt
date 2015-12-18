@@ -1,4 +1,4 @@
-Name of QuantLet : HistWealthD
+Name of QuantLet : XFGHistWealthD
 
 Published in : Applied Quantitative Finance
 
