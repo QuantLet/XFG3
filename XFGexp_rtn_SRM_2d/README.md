@@ -13,7 +13,7 @@ power utility of the optimal portfolios with different holding weights for the 1
 underlying asset under an EGARCH(1,1) model, where the number of assets
 is 2.'
 
-Keywords : 'garch, linear programming, portfolio, risk aversion, risk measure'
+Keywords : garch, linear programming, portfolio, risk aversion, risk measure
 
 See also : 
 
