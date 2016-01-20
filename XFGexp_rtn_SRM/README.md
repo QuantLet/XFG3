@@ -8,8 +8,8 @@ Name of QuantLet : XFGexp_rtn_SRM
 
 Published in : XFG (3rd Edition)
 
-Description : 'Compute the optimal expected returns with a generating func-
-tion of the SRM related to the HARA utility.'
+Description : 'Compute the optimal expected returns with a generating fun-
+ction of the SRM related to the HARA utility.'
 
 Keywords : 'arch, linear programming, portfolio, risk aversion, risk measure,
 utility'
@@ -22,8 +22,8 @@ Submitted :
 
 Datafile : None
 
-Example : Boxplots of the optimal expected returns with a generating func-
-tion of the SRM related to the HARA utility, where b = -0.2, -0.3 and -0.5.
+Example : 'Boxplots of the optimal expected returns with a generating func-
+tion of the SRM related to the HARA utility, where b = -0.2, -0.3 and -0.5.'
 
 ```
 
