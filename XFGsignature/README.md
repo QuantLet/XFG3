@@ -11,7 +11,7 @@ Published in : XFG (3rd Edition)
 Description : 'Plots realized volatility signature for IBM, 2001-2006. Average time between trades:
 6.78 seconds.'
 
-Keywords : 'plot, graphical representation, frequency, volatility, sampling'
+Keywords : plot, graphical representation, frequency, volatility, sampling
 
 See also :
 
