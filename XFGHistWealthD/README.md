@@ -18,9 +18,9 @@ Author : Guo Li
 
 Submitted :
 
-Datafile : i.csv, i = 1, 2, ..., 60; Bitcoin_Data1.csv; Aj.csv, j=2, 3, ..., 10 Auroracoin.csv
+Datafile : 'i.csv, i = 1, 2, ..., 60; Bitcoin_Data1.csv; Aj.csv, j=2, 3, ..., 10; Auroracoin.csv'
 
-Example : wealth distribution for Bitcoin and wealth distribution for Auroracoin.>
+Example : wealth distribution for Bitcoin and wealth distribution for Auroracoin.
 ```
 
 
