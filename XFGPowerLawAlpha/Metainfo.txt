@@ -2,7 +2,8 @@ Name of QuantLet : XFGPowerLawAlpha
 
 Published in : Applied Quantitative Finance
 
-Description : 'Estimates the Power Law parameter Alpha for wealth distribution of Bitcoin and Auroracoin.'
+Description : 'Estimates the Power Law parameter Alpha for wealth distribution of
+Bitcoin and Auroracoin.'
 
 Keywords : 'power law, bitcoin, crypto, currency, 
 index, wealth distribution'
