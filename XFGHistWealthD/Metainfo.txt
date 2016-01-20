@@ -2,7 +2,7 @@ Name of QuantLet : XFGHistWealthD
 
 Published in : Applied Quantitative Finance
 
-Description : 'Generates 3 histgrams of wealth distribution for Bitcion and Auroracoin.'
+Description : Generates 3 histgrams of wealth distribution for Bitcion and Auroracoin.
 
 Keywords : 'power law, bitcoin, crypto, currency, index, wealth distribution'
 
@@ -12,6 +12,6 @@ Author : Guo Li
 
 Submitted :
 
-Datafile : i.csv, i = 1, 2, ..., 60; Bitcoin_Data1.csv; Aj.csv, j=2, 3, ..., 10 Auroracoin.csv
+Datafile : 'i.csv, i = 1, 2, ..., 60; Bitcoin_Data1.csv; Aj.csv, j=2, 3, ..., 10; Auroracoin.csv'
 
 Example : wealth distribution for Bitcoin and wealth distribution for Auroracoin.
