@@ -8,9 +8,9 @@
 
 Published in : Applied Quantitative Finance
 
-Description : 'Generates 3 histgrams of wealth distribution for Bitcion and Auroracoin.'
+Description : Generates 3 histgrams of wealth distribution for Bitcion and Auroracoin.
 
-Keywords : 'power law, bitcoin, crypto, currency, index, wealth distribution'
+Keywords : power law, bitcoin, crypto, currency, index, wealth distribution
 
 See also : 
 
