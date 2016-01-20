@@ -2,7 +2,7 @@ Name of QuantLet : XFGTWSE100_strategy_fixedESlevel
 
 Published in : XFG (3rd Edition)
 
-Description : 'Computes the values of the self-financing trading strategy and
+Description : 'Computes the values of the self-financing trading strategy and
 the FTSE TWSE Taiwan 100 Index for three different economic conditions
 with different fixed bounds of risk.'
 
