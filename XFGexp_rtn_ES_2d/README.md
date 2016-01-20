@@ -9,7 +9,7 @@ Name of QuantLet : XFGexp_rtn_ES_2d
 Published in : XFG (3rd Edition)
 
 Description : 'Computes the values of the expected returns and the ES of the
-optimal portfolios with dierent holding weights for the 1st underlying asset
+optimal portfolios with different holding weights for the 1st underlying asset
 under an EGARCH(1,1) model, where the number of assets is 2.'
 
 Keywords : 'expected shortfall, garch, linear programming, portfolio, risk
@@ -23,9 +23,9 @@ Submitted :
 
 Datafile : None
 
-Example : Description: The values of the expected returns and the ES of the optimal
-portfolios with dierent holding weights c1 of the 1st underlying asset under
-an EGARCH(1,1) model, where the number of assets is 2 and T = 250.
+Example : 'The values of the expected returns and the ES of the optimal
+portfolios with different holding weights c1 of the 1st underlying asset under
+an EGARCH(1,1) model, where the number of assets is 2 and T = 250.'
 ```
 
 ![Picture1](fig2a.png)
