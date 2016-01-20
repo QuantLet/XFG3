@@ -18,4 +18,4 @@ Submitted :
 
 Datafile : ibm.dat
 
-Example : Kernel densit estimation of reliyed volatility and of correspondingly standardiyed returns for IBM.
+Example : 'Kernel densit estimation of reliyed volatility and of correspondingly standardiyed returns for IBM.'

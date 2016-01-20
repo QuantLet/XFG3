@@ -13,6 +13,6 @@ Author : Guo Li
 
 Submitted :
 
-Datafile : Aj.csv, j=2, 3, ..., 10; Auroracoin.csv
+Datafile : 'Aj.csv, j=2, 3, ..., 10; Auroracoin.csv'
 
 Example : 
