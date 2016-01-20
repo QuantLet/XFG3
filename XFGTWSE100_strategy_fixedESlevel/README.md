@@ -21,10 +21,9 @@ Author : Shih-Feng Huang
 
 Submitted :
 
-Datafile : weight L=002a.xlsx, weight L=003a.xlsx, weight L=005a.xlsx, ER L002a.xlsx, ER L003a.xlsx, ER L005a.xlsx, index 0712.csv, all 2365 empirical.csv
+Datafile : 'weight L=002a.xlsx, weight L=003a.xlsx, weight L=005a.xlsx, ER L002a.xlsx, ER L003a.xlsx, ER L005a.xlsx, index 0712.csv, all 2365 empirical.csv'
 
-Example : The values of the self-nancing trading strategy and the FTSE
-TWSE Taiwan 100 Index with different fixed upper bounds of risk.
+Example : 'The values of the self-nancing trading strategy and the FTSE, TWSE Taiwan 100 Index with different fixed upper bounds of risk.'
 ```
 
 ![Picture1](fig5a.png)
