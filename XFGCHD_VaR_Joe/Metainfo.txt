@@ -1,0 +1,19 @@
+Name of Quantlet: XFGCHD_VaR_Joe
+
+Published in: Applied Quantitative Finance (3rd Edition)
+
+Description: 'Shows VaRs of Joe copula model introduced in the paper. The alphas are chosen
+ eqaul to .001.'
+
+Keywords: 'visualization, copula, plot, VaR, graphical representation'
+
+Author: Yafei Xu
+
+Submitted:  26/05/2016
+
+Datafile: eps.126, sp126.csv
+
+Input: eps.126, sp126.csv
+
+Output:  XFGCHD_VaR_Joe.png
+
