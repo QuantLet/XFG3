@@ -1,0 +1,12 @@
+
+Name of Quantlet: XFGdtmpre
+
+Published in: XFG
+
+Description: Preprocesses textual and meta data from a crypto forum database and generates input for dynamic topic model.
+
+Keywords: 'bitcoin, preprocessing, crypto, text-mining, data-mining, data-adjustment'
+
+Author: Marco Linton
+
+Submitted:  Marco Linton
