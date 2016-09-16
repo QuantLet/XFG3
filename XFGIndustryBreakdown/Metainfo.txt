@@ -1,0 +1,15 @@
+Name of Quantlet: XFGIndustryBreakdown  
+
+Published in: Applied Quantitative Finance
+
+Description: 'Shows the MSCI industry breakdown of the portfolio consisting of 279 assets with total notional EUR 13.7bn. The industry breakdown is presented in a bar chart.'
+
+Keywords: 'asset, bar chart, data visualization, graphical representation, industry breakdown, portfolio'
+
+See also: 'XFGELESC, XFGRegionsBreakdown, XFGRsquared, XFGriskaversion, XFGriskaversion2'
+
+Author: Ludger Overbeck, Maria Sokolova
+
+Submitted: 2015-02-18 by Lukas Borke
+
+Example: 'XFGIndustryBreakdown.png'
