@@ -1,0 +1,17 @@
+Name of QuantLet: XFGSPDcom
+
+Published in: Applied Quantitative Finance
+
+Description: 'Outputs SPD estimations using Implied Binomial Tree and Rookley"s method for DAX option data on Jan 3, 1997 with time to maturity being 77 days.'
+
+Keywords: 'Breeden Litzenberger, IBT, Rookley, SPD, bisection-method, black-scholes, delta, derivative, european-option, gamma, implied binomial tree, implied-volatility, linear interpolation, local polynomial regression, semiparametric, smoothing, state-price-density'
+
+See also: 'XFGIBT01, XFGIBT02, XFGIBT03, XFGSPDcb, XFGSPDcb2, XFGSPDoneday, XFGSPDonemonth'
+
+Author: Awdesch Melzer
+
+Submitted: Wed, July 09 2014 by Awdesch Melzer
+
+Datafile: XFGData9701.dat
+
+Example: 'XFGSPDcom(): Comparison of different SPD estimations, by Rookley"s method (blue) and IBT (black), bandwidth=180.'
