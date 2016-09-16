@@ -1,0 +1,15 @@
+Name of QuantLet: XFGRegionsBreakdown  
+
+Published in: Applied Quantitative Finance
+
+Description: 'Shows the MSCI regions breakdown of the portfolio consisting of 279 assets with total notional EUR 13.7bn. The regions breakdown is presented in a bar chart.'
+
+Keywords: 'asset, bar chart, data visualization, graphical representation, portfolio, regions breakdown'
+
+See also: 'XFGELESC, XFGIndustryBreakdown, XFGRsquared, XFGriskaversion, XFGriskaversion2'
+
+Author: Ludger Overbeck, Maria Sokolova
+
+Submitted: 2015-02-17 by Lukas Borke
+
+Example: 'XFGRegionsBreakdown.png'

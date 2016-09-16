@@ -1,0 +1,13 @@
+Name of QuantLet: XFGriskaversion2
+
+Published in: Applied Quantitative Finance
+
+Description: 'Presents the risk aversion when the weights are directly set to 0.1 at the 50%, 90%, 95%-quantiles, 0.15 at the 99% and 99.9%- quantiles and 0.4 at the 99.98%-quantile.'
+
+Keywords: 'asset, data visualization, graphical representation, portfolio, returns, risk aversion'
+
+See also: 'XFGELESC, XFGIndustryBreakdown, XFGRegionsBreakdown, XFGRsquared, XFGriskaversion'
+
+Author: Ludger Overbeck, Maria Sokolova
+
+Submitted: 'Sun, March 01 2015 by Lukas Borke'

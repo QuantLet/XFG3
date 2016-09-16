@@ -1,0 +1,13 @@
+Name of QuantLet: XFGriskaversion
+
+Published in: Applied Quantitative Finance
+
+Description: 'Presents risk aversion calculated with respect to different methods. The dotted blue, dashed-dotted green and solid red lines represent SCA-decreasing steps, SCA - equal steps and SCA - incresing steps correspondingly.'
+
+Keywords: 'asset, data visualization, graphical representation, portfolio, returns, risk aversion'
+
+See also: 'XFGELESC, XFGIndustryBreakdown, XFGRegionsBreakdown, XFGRsquared, XFGriskaversion2'
+
+Author: Ludger Overbeck, Maria Sokolova
+
+Submitted: Sat, February 21 2015 by Lukas Borke
