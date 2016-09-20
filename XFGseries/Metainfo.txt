@@ -1,0 +1,13 @@
+Name of QuantLet: XFGseries
+
+Published in: Applied Quantitative Finance
+
+Description: 'Displays spread curves for the time period: 1 January 1999 to 19 May 2004. Note: The time period differs from XFG book.'
+
+Keywords: 'plot, time-series, financial, data visualization, graphical representation'
+
+Author: Awdesch Melzer, Germar Knoechlein
+
+Submitted: Tue, July 10 2012 by Dedy Dwi Prastyo
+
+Datafiles: 'INA2.txt, INAAA.txt, INB2.txt, INBB2.txt, INBBB2.txt, USTF.txt'

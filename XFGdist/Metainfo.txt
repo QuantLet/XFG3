@@ -1,0 +1,28 @@
+Name of QuantLet: XFGdist
+
+
+
+Published in: Applied Quantitative Finance
+
+
+
+Description: 'Plots empirical vs. normal distribution. 
+We visualize symmetry and leptokursis of the distribution of absolute spreadchanges for the INAAA 10Y data, where we plot the empiricaldistribution of absolute spreads around the mean spread in an averagedshifted histogram and the normal distribution with the variance estimatedfrom historical data.'
+
+
+
+Keywords: plot, empirical, normal, histogram, visualization
+
+
+
+Author: Germar Knoechlein, Awdesch Melzer
+
+
+
+Submitted: Sat, June 16 2012 by Dedy Dwi Prastyo
+
+
+
+Datafile: XFGINAAA.dat, XFGUSTF.dat
+
+

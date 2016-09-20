@@ -1,0 +1,15 @@
+Name of QuantLet: XFGiv06 
+
+Published in: Applied Quantitative Finance
+
+Description: 'Estimates a common principle components model for the implied volatility data (XFGvolsurf01.dat, XFGvolsurf02.dat, XFGvolsurf03.dat) and computes a likelihood ratio test.'
+
+Keywords: 'CPC, MLE, common-principal-component, dimension-reduction, implied-volatility, likelihood ration, maximum-likelihood'
+
+See also: 'MVAcpcaiv, XFGLSK, XFGiv00, XFGiv01, XFGiv02, XFGiv03, XFGiv04, XFGiv05'
+
+Author: Zografia Anastasiadou
+
+Submitted: Wed, May 28 2014 by Awdesch Melzer
+
+Datafiles: 'XFGvolsurf01.dat, XFGvolsurf02.dat, XFGvolsurf03.dat'
