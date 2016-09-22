@@ -1,0 +1,13 @@
+Name of QuantLet: XFGtreasury
+
+Published in: Applied Quantitative Finance
+
+Description: 'Plots US Treasury Yields (3M, 1Y, 2Y, 5Y, 10Y) from 0 to 2000 days'
+
+Keywords: plot, financial, data visualization, yield, treasury
+
+Author: 'Germar Knoechlein, Awdesch Melzer'
+
+Submitted: Sat, June 16 2012 by Dedy Dwi Prastyo
+
+Datafiles: XFGUSTF.dat

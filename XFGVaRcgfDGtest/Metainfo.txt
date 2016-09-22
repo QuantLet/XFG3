@@ -1,0 +1,15 @@
+Name of QuantLet: XFGVaRcgfDGtest
+
+Published in: Applied Quantitative Finance
+
+Description: 'Plots the cumulant generating function for a distribution, which is close to normal distribution. The graph is close to a parabola.'
+
+Keywords: 'Delta-Gamma-models, cumulant generating function, distribution, normal, plot'
+
+See also: VaRcgfDG, VaRcharfDG
+
+Author: Awdesch Melzer
+
+Submitted: Mon, June 03 2013 by Awdesch Melzer
+
+Output: 'Plot of the cumulant generating function for a distribution, which is close to normal distribution. The graph is close to a parabola.'
