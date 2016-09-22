@@ -27,14 +27,14 @@ Input:
 - theta: the constant
 - delta: the linear term
 - lambda: the diagonal of the quadratic terms
-- FALSE: scalar, modulus of the FFT, should have a power of 2
+- N: scalar, modulus of the FFT, should have a power of 2
 - K: scalar, number of characteristic function evaluations; K<=N
 - dt: scalar, grid-length in t to use for the approximation
 
 Output: 
 - r: a list containing the two components x and y
 - x: the grid (vector) in x
-- TRUE: the values of the CDF on the grid x
+- y: the values of the CDF on the grid x
 
 Example : 'Please mind the necessary subroutines. VaRcdfDGtest = function(par,N,dt){ l =
 VaRcdfDG(par,N,N,dt) z = cbind(l$x,l$y) plot(z,type="l",col="blue3",lwd=2,xlab="X",ylab="Y")
