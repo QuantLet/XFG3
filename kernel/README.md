@@ -28,7 +28,7 @@ Input:
 - u: data set
 
 Output: 
-- TRUE: kernel density estimate
+- y: kernel density estimate
 
 ```
 
