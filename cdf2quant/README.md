@@ -26,7 +26,7 @@ Input:
 - a: scalar, representing the probability level
 - l: a list containing x and y (see below)
 - x: the grid in x
-- TRUE: the values of the CDF on the grid x
+- y: the values of the CDF on the grid x
 
 Output: 
 - q: scalar, the approximated quantile
