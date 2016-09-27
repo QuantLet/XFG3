@@ -1,0 +1,37 @@
+Name of QuantLet: 	VaRcumulantDG 
+
+Published in:		Applied Quantitative Finance
+
+Description:		'Computes the n-th cumulant for the class of quadratic forms of Gaussian vectors. Notes: This function requires the eigenvalue decomposition that diagonalizes the quadratic term. VaRcumulantsDG computes the first n cumulants without need for the initial diagonalization.'
+
+Keywords:		Delta-Gamma-models, cumulant, gaussian, eigenvalues, decomposition
+
+See also:		VaRcumulantsDG
+
+Author:			Awdesch Melzer
+
+Submitted:		Sun, June 02 2013 by Awdesch Melzer
+
+Usage:			'c = VaRcumulantDG(n,l)'
+
+Input:			
+- n: scalar, order of the required cumulant# n=1 is the mean
+- l: a list defining the distribution contains at least the components theta, delta, lamda 
+- theta: the constant term 
+- delta: the linear term 
+- lambda: the diagonal of the quadratic term 
+
+Output:		
+- c: scalar, the n-th cumulant
+
+Example: 'theta = 0
+ delta = c(1)
+ lambda = c(1)
+ par = list()
+ par$delta = delta
+ par$lambda = lambda
+ par$theta = theta
+ VaRcumulantDG(3,par)
+
+Result: Contents of c
+ [1,] 4'

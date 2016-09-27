@@ -1,0 +1,13 @@
+Name of QuantLet: XFGtimeseries
+
+Published in: Applied Quantitative Finance
+
+Description: 'Plots and computes 99% Value-at-Risk for a given time series. Graphical representation of reliability of VaR calculation.'
+
+Keywords: 'VaR, time-series, plot, graphical representation, risk, tail, financial'
+
+Author: 'Germar Knoechlein, Awdesch Melzer'
+
+Submitted: Fri, June 29 2012 by Dedy Dwi Prastyo
+
+Datafiles: XFGMMPL.dat, XFGPL.dat
