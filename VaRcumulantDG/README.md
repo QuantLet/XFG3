@@ -24,7 +24,7 @@ Submitted : Sun, June 02 2013 by Awdesch Melzer
 Usage : c = VaRcumulantDG(n,l)
 
 Input: 
-- FALSE: scalar, order of the required cumulant# n=1 is the mean
+- n: scalar, order of the required cumulant# n=1 is the mean
 - l: a list defining the distribution contains at least the components theta, delta, lamda
 - theta: the constant term
 - delta: the linear term
