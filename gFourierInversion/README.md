@@ -23,7 +23,7 @@ Submitted : Tue, June 04 2013 by Awdesch Melzer
 Usage : r = gFourierInversion(N,K,dt,t0,x0,charf,l)
 
 Input: 
-- FALSE: scalar, the modulus of the Fast Fourier Transform (FFT) used; should be a power of 2.
+- N: scalar, the modulus of the Fast Fourier Transform (FFT) used; should be a power of 2.
 - K: 'scalar, the number of evaluations of the characteristic function; K has to be smaller or
 equal to N; when K < N, the input vector is filled with zeros up to N.'
 - dt: scalar, the grid-size in t used for the approximation of the inversion integral
