@@ -1,0 +1,19 @@
+Name of QuantLet: XFGexp_rtn_ES_2d
+
+Published in: Applied Quantitative Finance
+
+Description: 'computes the values of the expected returns and the expected shortfall (ES) of the optimal portfolios with different holding weights % for the 1st underlying asset under an EGARCH(1,1) model, where the number of assets is 2'
+
+Keywords: 'Linear programming, expected shortfall, garch, portfolio, risk aversion, risk measure'
+
+See also: 'XFGTWSE100_strategy_fixedESlevel, XFGexp_rtn_SRM, XFGexp_rtn_SRM_2d'
+
+Author: 'Shih-Feng Huang, Hsiao-Chi Lin, Tze-Yun Lin, Alla Petukhina'
+
+Submitted: Thu, August 06 2015 by Sergey Nasekin
+
+Input: None
+
+Output: 'plots of the expected returns and the ES of the optimal portfolios with different holding weights of the 1st underlying asset under an EGARCH(1,1) model, where the number of assets is 2'
+
+Example: 'a plot of the expected returns and the ES of the optimal portfolios with different holding weights of the 1st underlying asset'
