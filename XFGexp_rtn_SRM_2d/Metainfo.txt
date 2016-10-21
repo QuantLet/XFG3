@@ -1,0 +1,22 @@
+Name of QuantLet : XFGexp_rtn_SRM_2d
+
+Published in : XFG (3rd Edition)
+
+Description : 'Computes the values of the expected returns and the SRM with
+power utility of the optimal portfolios with different holding weights for the 1st
+underlying asset under an EGARCH(1,1) model, where the number of assets is 2.'
+
+Keywords : garch, linear programming, portfolio, risk aversion, risk measure
+
+See also : 
+
+Author : Shih-Feng Huang
+
+Submitted :
+
+Datafile : None
+
+Example : 'The values of the expected returns and the SRM with power
+utility of the optimal portfolios with different holding weights c1 of the 1st
+underlying asset under an EGARCH(1,1) model, where the number of assets
+is 2 and T = 250.'
