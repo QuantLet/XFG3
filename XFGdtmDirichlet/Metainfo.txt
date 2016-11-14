@@ -1,0 +1,9 @@
+Name of Quantlet: XFGdtmDirichlet
+
+Published in: Applied Quantitative Finance (3rd Edition)
+
+Description: Simulates and plots the Dirichlet distribution with various values for alpha.
+
+Keywords: simulation, distribution, plot, graphical representation, visualization
+
+Author: Ernie Teo
