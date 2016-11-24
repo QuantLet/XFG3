@@ -1,0 +1,9 @@
+Name of Quantlet: XFGdtmEvents
+
+Published in: Applied Quantitative Finance (3rd Edition)
+
+Description: Plots event partition over varying k parameters with k being either 10, 30 or 50 topics.
+
+Keywords: plot, graphical representation, visualization, crypto, text mining
+
+Author: Marco Linton

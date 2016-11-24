@@ -1,0 +1,9 @@
+Name of Quantlet: XFGdtmWdistr
+
+Published in: Applied Quantitative Finance (3rd Edition)
+
+Description: Plots frequency of words of the NASDAQ data set regarding sectors. 
+
+Keywords: plot, graphical representation, visualization, bar chart, text mining
+
+Author: Marco Linton
