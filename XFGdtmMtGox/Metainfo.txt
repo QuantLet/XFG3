@@ -1,0 +1,9 @@
+Name of Quantlet: XFGdtmMtGox
+
+Published in: Applied Quantitative Finance (3rd Edition)
+
+Description: Plots word evolution for the former crypto-currency exchange Mt Gox.
+
+Keywords: plot, graphical representation, visualization, crypto, text mining
+
+Author: Marco Linton

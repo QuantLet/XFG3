@@ -1,0 +1,9 @@
+Name of Quantlet: XFGdtmMining
+
+Published in: Applied Quantitative Finance (3rd Edition)
+
+Description: Plots word evolution for different cryptocurrency mining technologies.
+
+Keywords: plot, graphical representation, visualization, crypto, text mining
+
+Author: Marco Linton

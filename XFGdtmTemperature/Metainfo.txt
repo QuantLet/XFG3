@@ -1,0 +1,9 @@
+Name of Quantlet: XFGdtmTemperature
+
+Published in: Applied Quantitative Finance (3rd Edition)
+
+Description: Plots the temperature of different events relevant for the crypto-currency market.
+
+Keywords: plot, graphical representation, visualization, crypto, text mining
+
+Author: Marco Linton
