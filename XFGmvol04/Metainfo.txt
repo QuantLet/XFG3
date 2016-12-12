@@ -1,0 +1,20 @@
+
+Name of Quantlet: XFGmvol04
+
+Published in: Applied Quantitative Finance (3rd Edition)
+
+Description: 'Uses the estimated parameters from XFGmvol02 to simulate two
+bivariate processes with and without interaction terms, forecast (ex-ante)
+bivariate densities by means of kernel density estimation and compare them at
+the actual relizations of the exchange rate process.'
+
+Keywords: 'bigarch, BEKK, simulation, ex-ante, forecast, zero interaction,
+kernel density estiamtion, plot, graphical representation'
+
+See also: XFGmvol02
+
+Author: Matthias R. Fengler, Helmut Herwartz, Fabian H.C. Raters
+
+Datafile: fxdata.dat, estimates.dat, sigmaest.dat
+
+Output: successfig.png

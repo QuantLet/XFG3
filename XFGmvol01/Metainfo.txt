@@ -1,0 +1,17 @@
+
+Name of Quantlet: XFGmvol01
+
+Published in: Applied Quantitative Finance (3rd Edition)
+
+Description: 'Reads, summarizes and plots the dataset consisting of the 
+DEM/USD and GBP/USD foreign exchange rates from 31/12/1979 to 
+01/04/1994.'
+
+Keywords: 'exchange rates, data, import, summary, plot, graphical
+representation'
+
+Author: Matthias R. Fengler, Helmut Herwartz, Fabian H.C. Raters
+
+Datafile: fx.dat
+
+Output: fxdata.dat, mvolmfxrate.png
