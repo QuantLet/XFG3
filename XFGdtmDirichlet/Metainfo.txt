@@ -6,4 +6,4 @@ Description: Simulates and plots the Dirichlet distribution with various values 
 
 Keywords: simulation, distribution, plot, graphical representation, visualization
 
-Author: Ernie Teo
+Author: Ernie Teo, Philipp Schneider, WK Härdle
