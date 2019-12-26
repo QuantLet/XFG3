@@ -1,0 +1,17 @@
+Name of QuantLet : PowerLawAlpha
+
+Published in : Applied Quantitative Finance
+
+Description : 'Estimates the Power Law parameter Alpha for wealth distribution of Bitcoin and Auroracoin.'
+
+Keywords : ' power law, bitcoin, crypto, currency, index, wealth distribution'
+
+See also : 
+
+Author : Guo Li
+
+Submitted :
+
+Datafile : i.csv, i = 1, 2, ..., 60; Bitcoin_Data1.csv; Aj.csv, j=2, 3, ..., 10 Auroracoin.csv
+
+Example : 
