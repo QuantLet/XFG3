@@ -263,7 +263,7 @@ tau     = 0.05   # Set quantile level
 
 # Load data: 200 companies with 6 macro prudential variables
 tmpdata = read.csv("200_firms_returns_and_scaled_macro_2016-08-18.csv",sep=",") # FRM data
-data    = subset(tmpdata, select = c(2:nfirm, 202:207))
+data    = subset(tmpdata, select = c(2:n.firm, 202:207))
 dates   = tmpdata[, 1]
 
 # Define number of companies to regress in every core
