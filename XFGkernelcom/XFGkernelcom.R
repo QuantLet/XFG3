@@ -7,7 +7,7 @@ ibm = read.table("ibm.dat", header = F, col.names = c("date", "rv", "returns"))
 
 # if save output as pdf
 # pdf(file = "kernel.pdf", paper = "special", width = 6, height = 8.5)
-# op = par(no.readonly = TRUE)
+op = par(no.readonly = TRUE)
 
 par(mgp = c(1.75, 0.75, 0))
 par(mar = c(3, 3, 0.7, 0.7))
