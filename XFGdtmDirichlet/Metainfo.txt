@@ -6,13 +6,12 @@ Description: Simulates and plots the Dirichlet distribution with various values 
 
 Keywords: simulation, distribution, plot, graphical representation, visualization
 
-Author[m]: Ernie Teo
-Author[py]: Philipp Schneider, WK Härdle
+Author: Ernie Teo, Philipp Schneider, WK Härdle
 
+Submitted :  Wed 4. April 2019 by WK Härdle and Philipp Schneider
 
 See also : 
 
 - LDA-DTM_Christmas_Song
 
-Submitted[py] :  Wed 4. April 2019 by WK Härdle and Philipp Schneider
 
