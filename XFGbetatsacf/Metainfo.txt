@@ -11,11 +11,9 @@ the significant serial correlation.'
 Keywords : 'acf, plot, graphical representation, frequency, time-series,
 confidence-interval, autocorrelation'
 
-See also : 
-
 Author : Nicolas Hautsch, Uta Pigorsch
 
-Submitted :
+Submitted : 01.12.2015
 
 Datafile : ibmBeta.dat
 
