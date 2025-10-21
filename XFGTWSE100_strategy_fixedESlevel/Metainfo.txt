@@ -9,11 +9,9 @@ with different fixed bounds of risk.'
 Keywords : 'copula, dynamic, expected shortfall, garch, linear programming,
 portfolio, risk aversion, risk measure'
 
-See also : 
-
 Author : Shih-Feng Huang
 
-Submitted :
+Submitted : 20.01.2016
 
 Datafile : 'weight L=002a.xlsx, weight L=003a.xlsx, weight L=005a.xlsx, ER L002a.xlsx, ER L003a.xlsx, ER L005a.xlsx, index 0712.csv, all 2365 empirical.csv'
 
