@@ -12,11 +12,9 @@ autocorrelation functions (ACFs).'
 Keywords : 'acf, plot, graphical representation, frequency, 
 time-series, volatility, autocorrelation'
 
-See also : 
-
 Author : Nicolas Hautsch, Uta Pigorsch
 
-Submitted :
+Submitted : 20.01.2016
 
 Datafile : ibm.dat
 
