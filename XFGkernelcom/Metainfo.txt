@@ -10,11 +10,9 @@ The left column depicts the kernel density estimates based on a log scale.'
 
 Keywords : plot, graphical representation, frequency, volatility, returns, gaussian
 
-See also : 20.01.2016
-
 Author : Nicolas Hautsch, Uta Pigorsch
 
-Submitted :
+Submitted : 20.01.2016
 
 Datafile : ibm.dat
 
