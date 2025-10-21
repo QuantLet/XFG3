@@ -8,11 +8,9 @@ underlying asset under an EGARCH(1,1) model, where the number of assets is 2.'
 
 Keywords : garch, linear programming, portfolio, risk aversion, risk measure
 
-See also : 
-
 Author : Shih-Feng Huang
 
-Submitted :
+Submitted : 18.10.2018
 
 Datafile : None
 
