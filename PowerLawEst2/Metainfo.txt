@@ -1,0 +1,18 @@
+Name of QuantLet : PowerLawEst2
+
+Published in : Applied Quantitative Finance
+
+Description : 'Estimates the Power Law parameter Alpha as well as the goodness
+of fit of right tail of wealth distribution of Auroracoin.'
+
+Keywords : 'power law, bitcoin, crypto, currency, index'
+
+See also : 
+
+Author : Guo Li
+
+Submitted :
+
+Datafile : Aj.csv, j=2, 3, ..., 10; Auroracoin.csv
+
+Example : 
