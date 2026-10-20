@@ -9,7 +9,7 @@ Name of Quantlet: XFGmvol02
 
 Published in: Applied Quantitative Finance (3rd Edition)
 
-Description: Estimates the bivariate GARCH model, its (co)variance processes
+Description: Estimates the bivariate GARCH model, its (co)variance processes and plots them.
 
 Keywords: bigarch, BEKK, estimation, plot, graphical representation
 
