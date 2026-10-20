@@ -9,15 +9,13 @@ Name of QuantLet: XFGPowerLawEst2
 
 Published in: Applied Quantitative Finance
 
-Description: Estimates the Power Law parameter Alpha as well as the goodness
+Description: Estimates the Power Law parameter Alpha as well as the goodness of fit of right tail of wealth distribution of Auroracoin.
 
 Keywords: power law, bitcoin, crypto, currency, index
 
-See also: 
-
 Author: Guo Li
 
-Submitted: 
+Submitted: 20.01.2016
 
 Datafile: Aj.csv, j=2, 3, ..., 10; Auroracoin.csv
 
