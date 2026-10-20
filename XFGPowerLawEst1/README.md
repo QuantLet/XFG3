@@ -9,15 +9,13 @@ Name of QuantLet: XFGPowerLawEst1
 
 Published in: Applied Quantitative Finance
 
-Description: Estimates the Power Law parameter Alpha as well as the goodness
+Description: Estimates the Power Law parameter Alpha as well as the goodness of fit of wealth distribution of Bitcoin with Xmin = 1 by default.
 
 Keywords: power law, bitcoin, crypto, currency, index
 
-See also: 
-
 Author: Guo Li
 
-Submitted: 
+Submitted: 20.01.2016
 
 Datafile: i.csv, i = 1, 2, ..., 60; Bitcoin_Data1.csv
 
