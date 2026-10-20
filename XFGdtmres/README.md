@@ -11,10 +11,10 @@ Published in: XFG
 
 Description: Loads output from dynamic topic model and provides tools for analysis.
 
-Keywords: analysis, dynamic, model, LDA, text-mining, data-visualization, cluster-analysis,
+Keywords: analysis, dynamic, model, LDA, text-mining, data-visualization, cluster-analysis, descriptive, classification, probability, data-adjustment
 
 Author: Marco Linton
 
-Submitted: Marco Linton
+Submitted: 14.08.2016
 
 ```
