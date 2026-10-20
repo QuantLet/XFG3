@@ -9,9 +9,9 @@ Name of Quantlet: XFGmvol03
 
 Published in: Applied Quantitative Finance (3rd Edition)
 
-Description: Uses the estimated parameters from XFGmvol02 to simulate
+Description: Uses the estimated parameters from XFGmvol02 to simulate and plot (co)variance processes for the BEKK-type model and a bivariate process where the covariance and the interaction terms are set to zero.
 
-Keywords: bigarch, BEKK, simulation, zero interaction, plot,
+Keywords: bigarch, BEKK, simulation, zero interaction, plot, graphical representation
 
 See also: XFGmvol02
 
