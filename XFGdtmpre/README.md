@@ -15,6 +15,6 @@ Keywords: bitcoin, preprocessing, crypto, text-mining, data-mining, data-adjustm
 
 Author: Marco Linton
 
-Submitted: Marco Linton
+Submitted: 14.08.2016
 
 ```
