@@ -9,15 +9,13 @@ Name of QuantLet: XFGTWSE100_strategy_fixedESlevel
 
 Published in: XFG (3rd Edition)
 
-Description: Computes the values of the self-financing trading strategy and
+Description: Computes the values of the self-financing trading strategy and the FTSE TWSE Taiwan 100 Index for three different economic conditions with different fixed bounds of risk.
 
-Keywords: copula, dynamic, expected shortfall, garch, linear programming,
-
-See also: 
+Keywords: copula, dynamic, expected shortfall, garch, linear programming, portfolio, risk aversion, risk measure
 
 Author: Shih-Feng Huang
 
-Submitted: 
+Submitted: 20.01.2016
 
 Datafile: weight L=002a.xlsx, weight L=003a.xlsx, weight L=005a.xlsx, ER L002a.xlsx, ER L003a.xlsx, ER L005a.xlsx, index 0712.csv, all 2365 empirical.csv
 
