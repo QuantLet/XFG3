@@ -9,13 +9,11 @@ Name of Quantlet: XFGTVP_LambdaVIX
 
 Published in: Applied Quantitative Finance (3rd Edition)
 
-Description: Plots time series of average lambda taken from FinancialRiskMeter together
+Description: Plots time series of average lambda taken from FinancialRiskMeter together with the implied volatility index reported by the Chicago Board Options Exchange. Daily observations are collected from 6 July 2007 to 14 July 2016 and normalized to interval (0,1).
 
-Keywords: quantile, regression, lasso, lasso shrinkage, L1-norm penalty, L1-constraint,
+Keywords: quantile, regression, lasso, lasso shrinkage, L1-norm penalty, L1-constraint, volatility, risk measure, systemic risk, nonstationary, time varying, implied-volatility
 
-See also: XFGTVP_LambdaSim, XFGTVP_BetaChange, XFGTVP_FRM, XFGTVP_LambdaSysRisk,
-
-FRM_lambda_series, FRM_download_data, http: //frm.wiwi.hu-berlin.de, quantilelasso
+See also: XFGTVP_LambdaSim, XFGTVP_BetaChange, XFGTVP_FRM, XFGTVP_LambdaSysRisk, FRM_lambda_series, FRM_download_data, http://frm.wiwi.hu-berlin.de, quantilelasso
 
 Author: Lenka Zboňáková
 
