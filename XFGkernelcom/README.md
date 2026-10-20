@@ -9,15 +9,13 @@ Name of QuantLet: XFGkernelcom
 
 Published in: XFG (3rd Edition)
 
-Description: Plots kernel density estimation of the realized volatility
+Description: Plots kernel density estimation of the realized volatility and of correspondingly standardiyed returns for IBM, 2001-2006. The dotted line depicts the density of the correspondingly fitted normal distribution. The left column depicts the kernel density estimates based on a log scale.
 
 Keywords: plot, graphical representation, frequency, volatility, returns, gaussian
 
-See also: 
-
 Author: Nicolas Hautsch, Uta Pigorsch
 
-Submitted: 
+Submitted: 20.01.2016
 
 Datafile: ibm.dat
 
