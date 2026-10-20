@@ -9,19 +9,17 @@ Name of QuantLet: XFGPowerLawP
 
 Published in: Applied Quantitative Finance
 
-Description: Plots the time series of the goodness of fit of Power Law model
+Description: Plots the time series of the goodness of fit of Power Law model for both Bitcoin and Auroracoin.
 
 Keywords: power law, bitcoin, crypto, currency, index, wealth distribution
 
-See also: 
-
 Author: Guo Li
 
-Submitted: 
+Submitted: 20.01.2016
 
 Datafile: i.csv, i = 1, 2, ..., 60; Bitcoin_Data1.csv; Aj.csv, j=2, 3, ..., 10
 
-Example: Time series plots of parameter goodness of fit for wealth
+Example: Time series plots of parameter goodness of fit for wealth distribution of Bitcoin.
 
 ```
 <div align="center">
