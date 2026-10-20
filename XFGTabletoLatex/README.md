@@ -9,15 +9,13 @@ Name of QuantLet: XFGTabletoLatex
 
 Published in: Applied Quantitative Finance
 
-Description: Generates the Latex code for tables of regression results in Risk
+Description: Generates the Latex code for tables of regression results in Risk Analysis of Cryptos as Alternative Asset Class.
 
 Keywords: power law, bitcoin, crypto, currency, index, wealth distribution
 
-See also: 
-
 Author: Guo Li
 
-Submitted: 
+Submitted: 20.01.2016
 
 Datafile: i.csv, i = 1, 2, ..., 60; Bitcoin_Data1.csv; Aj.csv, j=2, 3, ..., 10; Auroracoin.csv
 
