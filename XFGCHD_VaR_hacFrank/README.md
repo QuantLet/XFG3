@@ -9,7 +9,7 @@ Name of Quantlet: XFGCHD_VaR_hacFrank
 
 Published in: Applied Quantitative Finance (3rd Edition)
 
-Description: Shows VaRs of HAC-Frank copula model introduced in the paper. The alphas are chosen
+Description: Shows VaRs of HAC-Frank copula model introduced in the paper. The alphas are chosen eqaul to .001.
 
 Keywords: visualization, copula, plot, VaR, graphical representation
 
