@@ -9,11 +9,11 @@ Name of Quantlet: XFGTVP_LambdaSim
 
 Published in: Applied Quantitative Finance (3rd Edition)
 
-Description: Performs quantile LASSO regression in a moving window by using BIC
+Description: Performs quantile LASSO regression in a moving window by using BIC and GACV criteria to choose penalty parameter (lambda). The simulated data contains a break point, after which a combination of changes of variance of the error term, correlation structure of the design matrix and number of active parameters (q) in the model is simulated. Plots time series of lambda in quantile LASSO regression. Furthermore, the cardinality of the active set q, the L2-norm of the residuals and the L1-norm of the parameter beta are plotted. All of the plots contain results from a number of simulations and the average over all of them.
 
-Keywords: quantile, regression, lasso, L1-norm penalty, lasso shrinkage, L1-constraint,
+Keywords: quantile, regression, lasso, L1-norm penalty, lasso shrinkage, L1-constraint, cross-validation, time varying, change point, bic, simulation, plot, visualization, historical moving window
 
-See also: XFGTVP_LambdaVIX, XFGTVP_BetaChange, XFGTVP_FRM, XFGTVP_LambdaSysRisk,
+See also: XFGTVP_LambdaVIX, XFGTVP_BetaChange, XFGTVP_FRM, XFGTVP_LambdaSysRisk, quantilelasso, TVPactiveset, TVPbetanorm, TVPdesign, TVPvariance
 
 Author: Lenka Zboňáková
 
